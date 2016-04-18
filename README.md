@@ -5,5 +5,5 @@
 - Finding the substring index in the given string.<br>
 - String compression
 - String Number math functions
-- String to int conversion
+- String to int & int to String conversion
 - Reverse words in string
